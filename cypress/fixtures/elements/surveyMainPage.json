@@ -1,0 +1,8 @@
+{
+    "loggedEmail": ".pf-header__user-email",
+    "createNewSurveyButton": "[data-testid='open-create-survey-modal']",
+    "surveyNameModal": ".ant-modal-content",
+    "surveyNameInput": ".ant-input",
+    "createSurveySubmitButton": "[data-testid='create-regular-survey']",
+    "threeDotsMenu": ".pf-header__drop-down-btn"
+}

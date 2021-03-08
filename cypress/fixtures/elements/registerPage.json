@@ -1,0 +1,19 @@
+{
+    "userTypeSelection": ".switch-user__btn",
+    "userTypeActive": "switch-user__btn--active",
+    "emailInput": ".pf-form__textfield__input",
+    "registerButton": ".pf-form__textfield-button",
+    "registerSideBar": ".onboard-sidebar",
+    "sideBarActiveSelection": ".onboarding__step--active",
+    "passwordInput": ".pf-form__textfield__input",
+    "fullNameInput": ".pf-form__textfield__input",
+    "companyInput": ".pf-form__textfield__input",
+    "companyListItem": ".autocomplete_item",
+    "likeToRadioButton": ".radio-button__input",
+    "findUsDropDown": "#referral-select",
+    "terms": ".pf-form--long",
+    "importantUpdates": ".checkbox-wrapper",
+    "importantUpdatesCheckBox": ".checkbox__input",
+    "nextButton": ".pf-form__textfield-button--submit",
+    "submitButton": ".pf-form__textfield-button--submit"
+}
