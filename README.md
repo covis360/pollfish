@@ -9,7 +9,7 @@ API registration scenario
 
 How to install/run
 ## clone this repo to a local directory
-git clone git@github.com:<username>/pollfish.git
+git clone git@github.com:username/pollfish.git
 ## Install cypress
 npm install cypress --save-dev
 ## Run with web interface
