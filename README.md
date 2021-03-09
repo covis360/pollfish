@@ -5,7 +5,7 @@ This repo includes:
 - Logout
 2. API registration scenario
 
-How to install/run
+#### How to install/run
 ## clone this repo to a local directory
 git clone git@github.com:username/pollfish.git
 ## Install cypress
